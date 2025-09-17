@@ -104,7 +104,7 @@ If you use this code, please cite:
 Diabagate A., et al.
 Hybrid Multi-Agent System for Automatic Detection of PDF Security Threats: 
 Generative Data Augmentation and Supervised Machine Learning Approach.
-Submitted to Informatica, 2025.
+Submitted to International Journal of Basic and Applied Sciences (E-ISSN: 2227-5053), 2025.
 ```
 
 ---
