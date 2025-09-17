@@ -1,0 +1,26 @@
+# Python cache and artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# OS files
+.DS_Store
+__MACOSX/
+
+# Output files
+output/*
+!output/.gitkeep
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE configs
+.vscode/
+.idea/

@@ -1,0 +1,4 @@
+Scénario,Detection_pct,Faux_positifs_pct,Robustesse,Temps_moyen_s,Spécificité
+Normal,53.0%,51.5%,Bonne,0.15,Élevée
+Stress,52.0%,48.5%,Dégradée,0.25,Moyenne
+UPMA,56.0%,49.5%,Excellente,0.18,Très élevée

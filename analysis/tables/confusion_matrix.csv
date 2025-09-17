@@ -1,0 +1,5 @@
+Classe_réelle,Classe_prédite,Nombre,Pourcentage
+Sain,Sain,33,33.0%
+Sain,Malveillant,35,35.0%
+Malveillant,Sain,12,12.0%
+Malveillant,Malveillant,20,20.0%

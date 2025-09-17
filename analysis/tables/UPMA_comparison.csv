@@ -1,0 +1,4 @@
+Indicateur,Sans_UPMA,Avec_UPMA,Gain_pct
+Accuracy,0.5,0.53,5.9%
+Faux Négatifs,12.0,12.0,-40%
+Précision,0.85,0.88,3.5%

@@ -1,0 +1,7 @@
+Agent,Rôle,Entrées,Sorties,Fréquence_appel
+UIA,Génération files PDF,"num_files, num_users",liste files PDF,100
+PLA,Préparation et lancement,files générés,simulation_input.csv,100
+GAA,Augmentation data (CTGAN),dataset déséquilibré,data équilibrées,1
+MLA,Machine Learning,data équilibrées,prédictions + scores,101
+UPMA,Gestion profil utilisateur,"user_id, prediction",status profil,100
+DMA,Gestion data,"file, prediction",data stockées,100
